@@ -1,4 +1,4 @@
-// Program to find the frequesncy of a number in an array
+// Program to find the frequency of a number in an array
 
 #include <iostream>
 using namespace std;
